@@ -1,13 +1,16 @@
 # Horiseon-Challenge
 
 ##Purpose 
+
 A website that optimizes search engines 
 
 ##Built with
+
 *HTML
 *CSS
 
 ##Website
+
 
 
 ##Contribution
