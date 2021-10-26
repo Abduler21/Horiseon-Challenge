@@ -15,6 +15,6 @@ A website that optimizes search engines
 
 ##Contribution
 Made with ❤️️ by Horiseon
-© 2019 Horiseon Social Solution Services, Inc.]
+© 2019 Horiseon Social Solution Services, Inc.
 
 
