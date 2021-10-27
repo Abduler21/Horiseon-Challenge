@@ -56,8 +56,7 @@ p {
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
-    background-image: url(../code2/digital-marketing-meeting.jpg);
-}
+    background-image: url(./digital-marketing-meeting.jpg);}
  /* ^ this css changes the height,width,margin,background image size and position ^ */
 .float-left {
     float: left;
